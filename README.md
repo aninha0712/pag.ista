@@ -12,5 +12,5 @@ Página baseada na funcionalidade do instagram
 ## Deploy
 <br>
 <br> 
-o deploy do aplicativo foi realizado através do Vercel.Para acessa-lo basta clicar no <a href="ping-pong-amber.vercel.app"> link<a/>
+o deploy do aplicativo foi realizado através do Vercel.Para acessa-lo basta clicar no <a pag-ista-ana-luizas-projects-2df0dd9c.vercel.app> link<a/>
 <br>

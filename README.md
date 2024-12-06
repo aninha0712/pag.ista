@@ -7,7 +7,7 @@ Página baseada na funcionalidade do instagram
 
 ## funcionalidade do site
 <br>
-<p>Na página há a página de perfil parecida com a do isntagrama. </p>
+<p>Na página há a página de perfil parecida com a do isntagram. </p>
 
 ## Deploy
 <br>
